@@ -31,6 +31,11 @@ transistor, LED, 9V battery, and connecting wires
 - **Signal Processing Units** – Process and analyze detected signals in real-time.
 - **User Interface** – Provides operators with real-time alerts and system controls.
 
+## **Result**
+![image](https://github.com/user-attachments/assets/f658918d-6df2-4b9e-a88f-3ec12acd9daa)
+![image](https://github.com/user-attachments/assets/108520a2-0a80-49e5-ab74-7081e73f2d11)
+
+
 ## **Benefits**
 - **Improved Precision**: High accuracy in detecting unauthorized cellphone signals.
 - **Real-Time Monitoring**: Instant alerts and notifications upon detection.
